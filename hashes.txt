@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Roddur Hoye Esecho
+
+This log tracks the cryptographic history and versioning for the song **Roddur Hoye Esecho** (roddur-hoye-esecho).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T05:52:49.964927 | `v1` | `ce769d2175e694020715abaa18c6deabb43d5a2e5bf559492e3a94b10afdf064` | `956db13e3c72c43d880ef0bbb7c010fe1013099258ca766968588277958cec1b` | `2026-05-13_roddur-hoye-esecho-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roddur-hoye-esecho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Roddur Hoye Esecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roddur-hoye-esecho/) |
+| **Get License** | [Request Licensing for Roddur Hoye Esecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roddur-hoye-esecho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ce769d2175e694020715abaa18c6deabb43d5a2e5bf559492e3a94b10afdf064` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
