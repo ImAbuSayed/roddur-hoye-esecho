@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roddur-hoye-esecho/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roddur Hoye Esecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roddur-hoye-esecho/) |
+| **Get License** | [Get a Licensing Quote for Roddur Hoye Esecho](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roddur-hoye-esecho/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> কালো মেঘের আড়াল ভেঙে রোদ্দুর হয়ে এসেছো
+> আমার এই শূন্য মনে ভালোবাসার জোয়ার এনেছো
+> এতদিন দূরে থেকে কেন আমায় শুধু কাঁদিয়েছো
+> বলো না তুমি কি আমায় একটুও ভালোবেসেছো.. ভালোবেসেছো..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
